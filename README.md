@@ -1,4 +1,4 @@
-![Uploading bor_manual.png<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8"><img width="1024" height="1536" alt="bor_manual" src="https://github.com/user-attachments/assets/a6a2b230-e1d0-40f2-a38b-9b6c386250bd" />
